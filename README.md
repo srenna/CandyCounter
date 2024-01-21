@@ -1,2 +1,2 @@
-# candy_counter
-In this project, I trained an object detector to count different types of candy by annotating images images of candy and fine-tune an object detector adapting a Huggingface tutorial.
+# Candy Counter
+The Candy Counter is an object detector to count different types of candy. By annotating images of candy in Label Studio and fine-tuning an object detector by adapting a Huggingface tutorial, the tutorial was modified to work with the dataset.
